@@ -72,7 +72,7 @@ header img{
 .sns a:hover{
   color:#FFCD44;
   transform: scale(1.1,1.1);
-　cursor: pointer;
+　cursor:pointer;
 }
 /*-------------------------------------------------------------------*/
 @media(max-width:1150px){
@@ -299,7 +299,6 @@ header img{
 .type-wrap{
   display: flex;
   flex-wrap: wrap;
-  justify-content:;
   padding-top: 36px;
   width: 100%;
 }
