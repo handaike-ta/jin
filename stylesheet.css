@@ -65,6 +65,7 @@ header img{
 }
 .sns a{
   color:white;
+  cursor : pointer;
   display: inline-block;
   padding: 0 5px;
   transition-duration: 0.5s;
@@ -72,7 +73,6 @@ header img{
 .sns a:hover{
   color:#FFCD44;
   transform: scale(1.1,1.1);
-　cursor : pointer;
 }
 /*-------------------------------------------------------------------*/
 @media(max-width:1150px){
